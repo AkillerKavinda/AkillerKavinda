@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Akila**. I love **data** and everything I can learn from it.
+I'm **Akila**. I love **data**!
 
 - 🛠️ Currently improving my skills in **Python, SQL, Power BI, and Excel**  
 - 📖 I enjoy **exploring data and learning something new** every day  
